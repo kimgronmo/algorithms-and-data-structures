@@ -1,0 +1,17 @@
+The assignment defines a series of tasks which are to be completed. These tasks are 
+represented as vertices connected in a directed acyclic graph. In order to complete 
+a task we have to have completed any tasks upon which it is dependand. Since the 
+graph is acyclic we can traverse this graph in a topological order. This means each 
+vertex on the graph is visited only once since we cannot come back to it from an 
+unknown later vertex. 
+
+In my program I visit each vertex in topological order. For each vertex I calculate 
+its earliest starting time (which is based on its incoming edges). Since the number 
+of vertices and edges are constant and known, the resulting operations will have a 
+complexity of O(|vertices|+|incoming edges|). After this is done I go through the 
+graph in a reverse topological order and calculate its latest starting time and 
+slack. This is calculated by using the vertices outgoing edges. The resulting 
+complexity is the based on the number of vertices and their edges. Thus it has a 
+complexity in the order of O(|vertices|+|outgoing edges|).
+
+ 

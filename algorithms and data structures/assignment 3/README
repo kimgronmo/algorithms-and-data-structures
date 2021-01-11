@@ -1,0 +1,14 @@
+to run program use: java Oblig3 config.txt data.txt
+
+Everything seems to be running fine. No correct examples were given in 
+the assignment so its hard to see if all trial requests works as they 
+should. Note that a request 1:C:A:22 23... has to be given correctly 
+or the program might crash. When the program is run a menu is printed 
+asking for user input. 
+
+It was unclear whether or not a local copy should be kept when the 
+requesting machine already has the data. In my solution a copy of the data
+ is kept as local data even if it already exist as original data. I also
+keep an extra copy of data even if it already exist as local data if a
+request is made. (i.e if you run 1:C:O:23 1 multiple times, a list 1 command
+will show local data as: 23 1 23 1 ...

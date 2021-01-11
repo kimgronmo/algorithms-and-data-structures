@@ -1,0 +1,9 @@
+To represent the network I use a collection of nodes in a weighted graph. 
+The weights were both time and cost. With a given search preference the 
+program finds the shortest path to any node using Dijkstra's algorithm.
+
+Since no edge has negative time or cost this algorithm should always work.
+If the number of nodes is |v| and the number of edges for each node is |e|,
+the algorithm scans the nodes and updates the minimum for each edge. The
+running time is the given as a combination of the number of nodes and edges.
+It will have a running time of O(|e|*log(|v|)+|v|*log(|v|))=O(|e|*log(|v|)). 

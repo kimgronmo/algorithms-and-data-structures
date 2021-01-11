@@ -1,0 +1,1156 @@
+
+###
+### Output from buildhouse1.txt
+###
+
+<------ Program is reading the task data ------>
+
+Starting the project:
+
+Time: 0
+Starting task: 5 Build-foundation
+Current working staff: 2
+
+Time: 1
+Current working staff: 2
+
+Time: 2
+Current working staff: 2
+
+Time: 3
+Current working staff: 2
+
+Time: 4
+Starting task: 1 Build-walls
+Starting task: 6 Make-floor
+Completed task: 5 Build-foundation
+Current working staff: 4
+
+Time: 5
+Current working staff: 4
+
+Time: 6
+Completed task: 6 Make-floor
+Current working staff: 2
+
+Time: 7
+Current working staff: 2
+
+Time: 8
+Starting task: 2 Build-roofs
+Completed task: 1 Build-walls
+Current working staff: 4
+
+Time: 9
+Current working staff: 4
+
+Time: 10
+Current working staff: 4
+
+Time: 11
+Current working staff: 4
+
+Time: 12
+Current working staff: 4
+
+Time: 13
+Current working staff: 4
+
+Time: 14
+Starting task: 3 Put-on-wallpapers
+Starting task: 4 Put-on-tiles
+Starting task: 7 Put-carpet-floor
+Completed task: 2 Build-roofs
+Current working staff: 7
+
+Time: 15
+Completed task: 3 Put-on-wallpapers
+Completed task: 4 Put-on-tiles
+Current working staff: 2
+
+Time: 16
+Current working staff: 2
+
+Time: 17
+Current working staff: 2
+
+Time: 18
+Starting task: 8 Move-in
+Completed task: 7 Put-carpet-floor
+Current working staff: 4
+
+Time: 19
+Current working staff: 4
+
+Time: 20
+Current working staff: 4
+
+Time: 21
+Current working staff: 4
+
+Time: 22
+Completed task: 8 Move-in
+Current working staff: 0
+
+**** Shortest possible project execution is 22 ****
+
+List of project tasks: 
+
+1 Build-walls
+Time needed to finish task: 4
+Manpower required to complete task: 2
+Slack er: 0
+Earliest start is: 4
+latestStart is: 4
+Tasks which depend on this task: 2 3 
+
+2 Build-roofs
+Time needed to finish task: 6
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 8
+latestStart is: 8
+Tasks which depend on this task: 3 4 7 
+
+3 Put-on-wallpapers
+Time needed to finish task: 1
+Manpower required to complete task: 2
+Slack er: 3
+Earliest start is: 14
+latestStart is: 17
+Tasks which depend on this task: 8 
+
+4 Put-on-tiles
+Time needed to finish task: 1
+Manpower required to complete task: 3
+Slack er: 7
+Earliest start is: 14
+latestStart is: 21
+Tasks which depend on this task: 
+
+5 Build-foundation
+Time needed to finish task: 4
+Manpower required to complete task: 2
+Slack er: 0
+Earliest start is: 0
+latestStart is: 0
+Tasks which depend on this task: 1 6 
+
+6 Make-floor
+Time needed to finish task: 2
+Manpower required to complete task: 2
+Slack er: 8
+Earliest start is: 4
+latestStart is: 12
+Tasks which depend on this task: 7 
+
+7 Put-carpet-floor
+Time needed to finish task: 4
+Manpower required to complete task: 2
+Slack er: 0
+Earliest start is: 14
+latestStart is: 14
+Tasks which depend on this task: 8 
+
+8 Move-in
+Time needed to finish task: 4
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 18
+latestStart is: 18
+Tasks which depend on this task: 
+
+
+###
+### Output from buildhouse2.txt
+###
+
+<------ Program is reading the task data ------>
+
+One or more cycles has been found. The program has aborted
+Prøver node: 1
+Noden er: 1
+Noden er: 2
+Noden er: 3
+Noden er: 6
+Cycle is completed. Next node is: 1
+
+
+###
+### Output from buildrail.txt
+###
+
+<------ Program is reading the task data ------>
+
+Starting the project:
+
+Time: 0
+Starting task: 9 Setup-barrack
+Current working staff: 10
+
+Time: 1
+Current working staff: 10
+
+Time: 2
+Current working staff: 10
+
+Time: 3
+Starting task: 10 Prepare-storage
+Starting task: 11 Rig-ramspace-reinforcing
+Starting task: 12 Build-tunnel
+Starting task: 14 Build-intersection
+Starting task: 16 Build-towerfoundation-1
+Starting task: 17 Build-towerfoundation-2
+Completed task: 9 Setup-barrack
+Current working staff: 56
+
+Time: 4
+Starting task: 18 Make-armouring-tower-1
+Starting task: 19 Make-armouring-tower-2
+Starting task: 20 Make-armouring-arch
+Completed task: 11 Rig-ramspace-reinforcing
+Current working staff: 64
+
+Time: 5
+Starting task: 2 Install-railing
+Completed task: 10 Prepare-storage
+Current working staff: 70
+
+Time: 6
+Current working staff: 70
+
+Time: 7
+Current working staff: 70
+
+Time: 8
+Current working staff: 70
+
+Time: 9
+Current working staff: 70
+
+Time: 10
+Current working staff: 70
+
+Time: 11
+Current working staff: 70
+
+Time: 12
+Completed task: 2 Install-railing
+Current working staff: 60
+
+Time: 13
+Current working staff: 60
+
+Time: 14
+Current working staff: 60
+
+Time: 15
+Current working staff: 60
+
+Time: 16
+Starting task: 23 Encase-and-armour-arch
+Completed task: 20 Make-armouring-arch
+Current working staff: 61
+
+Time: 17
+Current working staff: 61
+
+Time: 18
+Current working staff: 61
+
+Time: 19
+Current working staff: 61
+
+Time: 20
+Current working staff: 61
+
+Time: 21
+Current working staff: 61
+
+Time: 22
+Current working staff: 61
+
+Time: 23
+Current working staff: 61
+
+Time: 24
+Current working staff: 61
+
+Time: 25
+Current working staff: 61
+
+Time: 26
+Current working staff: 61
+
+Time: 27
+Current working staff: 61
+
+Time: 28
+Starting task: 15 Clean-intersection
+Completed task: 14 Build-intersection
+Current working staff: 61
+
+Time: 29
+Completed task: 19 Make-armouring-tower-2
+Current working staff: 57
+
+Time: 30
+Current working staff: 57
+
+Time: 31
+Current working staff: 57
+
+Time: 32
+Current working staff: 57
+
+Time: 33
+Starting task: 13 Clean-tunnel
+Completed task: 12 Build-tunnel
+Current working staff: 57
+
+Time: 34
+Current working staff: 57
+
+Time: 35
+Current working staff: 57
+
+Time: 36
+Current working staff: 57
+
+Time: 37
+Current working staff: 57
+
+Time: 38
+Completed task: 16 Build-towerfoundation-1
+Current working staff: 45
+
+Time: 39
+Current working staff: 45
+
+Time: 40
+Current working staff: 45
+
+Time: 41
+Current working staff: 45
+
+Time: 42
+Current working staff: 45
+
+Time: 43
+Current working staff: 45
+
+Time: 44
+Starting task: 21 Encase-and-armour-tower-1
+Completed task: 18 Make-armouring-tower-1
+Current working staff: 46
+
+Time: 45
+Current working staff: 46
+
+Time: 46
+Starting task: 26 Cast-arch
+Completed task: 23 Encase-and-armour-arch
+Current working staff: 48
+
+Time: 47
+Current working staff: 48
+
+Time: 48
+Starting task: 22 Encase-and-armour-tower-2
+Completed task: 17 Build-towerfoundation-2
+Completed task: 15 Clean-intersection
+Current working staff: 29
+
+Time: 49
+Current working staff: 29
+
+Time: 50
+Current working staff: 29
+
+Time: 51
+Starting task: 8 Put-lane-tunnel-and-intersection
+Completed task: 13 Clean-tunnel
+Current working staff: 24
+
+Time: 52
+Current working staff: 24
+
+Time: 53
+Current working staff: 24
+
+Time: 54
+Current working staff: 24
+
+Time: 55
+Current working staff: 24
+
+Time: 56
+Current working staff: 24
+
+Time: 57
+Current working staff: 24
+
+Time: 58
+Current working staff: 24
+
+Time: 59
+Starting task: 24 Cast-tower-1
+Completed task: 21 Encase-and-armour-tower-1
+Current working staff: 26
+
+Time: 60
+Current working staff: 26
+
+Time: 61
+Current working staff: 26
+
+Time: 62
+Current working staff: 26
+
+Time: 63
+Starting task: 3 Install-ticketmachine
+Completed task: 8 Put-lane-tunnel-and-intersection
+Current working staff: 29
+
+Time: 64
+Starting task: 25 Cast-tower-2
+Completed task: 22 Encase-and-armour-tower-2
+Completed task: 3 Install-ticketmachine
+Current working staff: 21
+
+Time: 65
+Current working staff: 21
+
+Time: 66
+Completed task: 26 Cast-arch
+Current working staff: 14
+
+Time: 67
+Current working staff: 14
+
+Time: 68
+Current working staff: 14
+
+Time: 69
+Current working staff: 14
+
+Time: 70
+Current working staff: 14
+
+Time: 71
+Current working staff: 14
+
+Time: 72
+Current working staff: 14
+
+Time: 73
+Current working staff: 14
+
+Time: 74
+Current working staff: 14
+
+Time: 75
+Current working staff: 14
+
+Time: 76
+Current working staff: 14
+
+Time: 77
+Current working staff: 14
+
+Time: 78
+Current working staff: 14
+
+Time: 79
+Current working staff: 14
+
+Time: 80
+Current working staff: 14
+
+Time: 81
+Current working staff: 14
+
+Time: 82
+Current working staff: 14
+
+Time: 83
+Current working staff: 14
+
+Time: 84
+Current working staff: 14
+
+Time: 85
+Current working staff: 14
+
+Time: 86
+Current working staff: 14
+
+Time: 87
+Current working staff: 14
+
+Time: 88
+Current working staff: 14
+
+Time: 89
+Current working staff: 14
+
+Time: 90
+Current working staff: 14
+
+Time: 91
+Current working staff: 14
+
+Time: 92
+Current working staff: 14
+
+Time: 93
+Current working staff: 14
+
+Time: 94
+Current working staff: 14
+
+Time: 95
+Current working staff: 14
+
+Time: 96
+Current working staff: 14
+
+Time: 97
+Current working staff: 14
+
+Time: 98
+Current working staff: 14
+
+Time: 99
+Current working staff: 14
+
+Time: 100
+Current working staff: 14
+
+Time: 101
+Current working staff: 14
+
+Time: 102
+Current working staff: 14
+
+Time: 103
+Current working staff: 14
+
+Time: 104
+Current working staff: 14
+
+Time: 105
+Current working staff: 14
+
+Time: 106
+Current working staff: 14
+
+Time: 107
+Current working staff: 14
+
+Time: 108
+Current working staff: 14
+
+Time: 109
+Current working staff: 14
+
+Time: 110
+Current working staff: 14
+
+Time: 111
+Current working staff: 14
+
+Time: 112
+Current working staff: 14
+
+Time: 113
+Current working staff: 14
+
+Time: 114
+Current working staff: 14
+
+Time: 115
+Current working staff: 14
+
+Time: 116
+Current working staff: 14
+
+Time: 117
+Current working staff: 14
+
+Time: 118
+Current working staff: 14
+
+Time: 119
+Starting task: 4 Paint-tower-1-with-arch
+Completed task: 24 Cast-tower-1
+Current working staff: 13
+
+Time: 120
+Current working staff: 13
+
+Time: 121
+Current working staff: 13
+
+Time: 122
+Current working staff: 13
+
+Time: 123
+Current working staff: 13
+
+Time: 124
+Starting task: 5 Paint-tower-2
+Starting task: 27 Stretch-two-maincables
+Completed task: 25 Cast-tower-2
+Current working staff: 22
+
+Time: 125
+Current working staff: 22
+
+Time: 126
+Current working staff: 22
+
+Time: 127
+Current working staff: 22
+
+Time: 128
+Current working staff: 22
+
+Time: 129
+Current working staff: 22
+
+Time: 130
+Current working staff: 22
+
+Time: 131
+Current working staff: 22
+
+Time: 132
+Current working staff: 22
+
+Time: 133
+Current working staff: 22
+
+Time: 134
+Completed task: 4 Paint-tower-1-with-arch
+Current working staff: 16
+
+Time: 135
+Current working staff: 16
+
+Time: 136
+Completed task: 5 Paint-tower-2
+Current working staff: 10
+
+Time: 137
+Current working staff: 10
+
+Time: 138
+Current working staff: 10
+
+Time: 139
+Current working staff: 10
+
+Time: 140
+Current working staff: 10
+
+Time: 141
+Current working staff: 10
+
+Time: 142
+Current working staff: 10
+
+Time: 143
+Current working staff: 10
+
+Time: 144
+Current working staff: 10
+
+Time: 145
+Current working staff: 10
+
+Time: 146
+Current working staff: 10
+
+Time: 147
+Current working staff: 10
+
+Time: 148
+Current working staff: 10
+
+Time: 149
+Starting task: 28 Build-truss-1-with-rods
+Starting task: 29 Build-truss-2-with-rods
+Completed task: 27 Stretch-two-maincables
+Current working staff: 20
+
+Time: 150
+Current working staff: 20
+
+Time: 151
+Current working staff: 20
+
+Time: 152
+Current working staff: 20
+
+Time: 153
+Current working staff: 20
+
+Time: 154
+Current working staff: 20
+
+Time: 155
+Current working staff: 20
+
+Time: 156
+Current working staff: 20
+
+Time: 157
+Current working staff: 20
+
+Time: 158
+Current working staff: 20
+
+Time: 159
+Current working staff: 20
+
+Time: 160
+Current working staff: 20
+
+Time: 161
+Current working staff: 20
+
+Time: 162
+Current working staff: 20
+
+Time: 163
+Current working staff: 20
+
+Time: 164
+Current working staff: 20
+
+Time: 165
+Current working staff: 20
+
+Time: 166
+Current working staff: 20
+
+Time: 167
+Current working staff: 20
+
+Time: 168
+Current working staff: 20
+
+Time: 169
+Current working staff: 20
+
+Time: 170
+Current working staff: 20
+
+Time: 171
+Current working staff: 20
+
+Time: 172
+Current working staff: 20
+
+Time: 173
+Current working staff: 20
+
+Time: 174
+Current working staff: 20
+
+Time: 175
+Current working staff: 20
+
+Time: 176
+Current working staff: 20
+
+Time: 177
+Current working staff: 20
+
+Time: 178
+Current working staff: 20
+
+Time: 179
+Completed task: 28 Build-truss-1-with-rods
+Current working staff: 10
+
+Time: 180
+Current working staff: 10
+
+Time: 181
+Current working staff: 10
+
+Time: 182
+Current working staff: 10
+
+Time: 183
+Current working staff: 10
+
+Time: 184
+Current working staff: 10
+
+Time: 185
+Current working staff: 10
+
+Time: 186
+Starting task: 1 Install-pavement
+Starting task: 6 Paint-trusses
+Starting task: 7 Paint-cables-and-rods
+Starting task: 30 Cast-lane-on-truss
+Completed task: 29 Build-truss-2-with-rods
+Current working staff: 29
+
+Time: 187
+Current working staff: 29
+
+Time: 188
+Current working staff: 29
+
+Time: 189
+Current working staff: 29
+
+Time: 190
+Current working staff: 29
+
+Time: 191
+Current working staff: 29
+
+Time: 192
+Current working staff: 29
+
+Time: 193
+Current working staff: 29
+
+Time: 194
+Current working staff: 29
+
+Time: 195
+Current working staff: 29
+
+Time: 196
+Current working staff: 29
+
+Time: 197
+Current working staff: 29
+
+Time: 198
+Current working staff: 29
+
+Time: 199
+Current working staff: 29
+
+Time: 200
+Current working staff: 29
+
+Time: 201
+Current working staff: 29
+
+Time: 202
+Current working staff: 29
+
+Time: 203
+Current working staff: 29
+
+Time: 204
+Completed task: 7 Paint-cables-and-rods
+Current working staff: 23
+
+Time: 205
+Current working staff: 23
+
+Time: 206
+Starting task: 31 Polish-lane-on-arch
+Completed task: 1 Install-pavement
+Completed task: 30 Cast-lane-on-truss
+Current working staff: 13
+
+Time: 207
+Current working staff: 13
+
+Time: 208
+Current working staff: 13
+
+Time: 209
+Current working staff: 13
+
+Time: 210
+Current working staff: 13
+
+Time: 211
+Current working staff: 13
+
+Time: 212
+Current working staff: 13
+
+Time: 213
+Completed task: 6 Paint-trusses
+Current working staff: 7
+
+Time: 214
+Current working staff: 7
+
+Time: 215
+Current working staff: 7
+
+Time: 216
+Current working staff: 7
+
+Time: 217
+Current working staff: 7
+
+Time: 218
+Completed task: 31 Polish-lane-on-arch
+Current working staff: 0
+
+**** Shortest possible project execution is 218 ****
+
+List of project tasks: 
+
+1 Install-pavement
+Time needed to finish task: 20
+Manpower required to complete task: 10
+Slack er: 12
+Earliest start is: 186
+latestStart is: 198
+Tasks which depend on this task: 
+
+2 Install-railing
+Time needed to finish task: 7
+Manpower required to complete task: 10
+Slack er: 206
+Earliest start is: 5
+latestStart is: 211
+Tasks which depend on this task: 
+
+3 Install-ticketmachine
+Time needed to finish task: 1
+Manpower required to complete task: 10
+Slack er: 154
+Earliest start is: 63
+latestStart is: 217
+Tasks which depend on this task: 
+
+4 Paint-tower-1-with-arch
+Time needed to finish task: 15
+Manpower required to complete task: 6
+Slack er: 84
+Earliest start is: 119
+latestStart is: 203
+Tasks which depend on this task: 
+
+5 Paint-tower-2
+Time needed to finish task: 12
+Manpower required to complete task: 6
+Slack er: 82
+Earliest start is: 124
+latestStart is: 206
+Tasks which depend on this task: 
+
+6 Paint-trusses
+Time needed to finish task: 27
+Manpower required to complete task: 6
+Slack er: 5
+Earliest start is: 186
+latestStart is: 191
+Tasks which depend on this task: 
+
+7 Paint-cables-and-rods
+Time needed to finish task: 18
+Manpower required to complete task: 6
+Slack er: 14
+Earliest start is: 186
+latestStart is: 200
+Tasks which depend on this task: 
+
+8 Put-lane-tunnel-and-intersection
+Time needed to finish task: 12
+Manpower required to complete task: 7
+Slack er: 0
+Earliest start is: 51
+latestStart is: 51
+Tasks which depend on this task: 3 31 
+
+9 Setup-barrack
+Time needed to finish task: 3
+Manpower required to complete task: 10
+Slack er: 0
+Earliest start is: 0
+latestStart is: 0
+Tasks which depend on this task: 10 11 12 14 16 17 
+
+10 Prepare-storage
+Time needed to finish task: 2
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 3
+latestStart is: 3
+Tasks which depend on this task: 2 
+
+11 Rig-ramspace-reinforcing
+Time needed to finish task: 1
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 3
+latestStart is: 3
+Tasks which depend on this task: 18 19 20 
+
+12 Build-tunnel
+Time needed to finish task: 30
+Manpower required to complete task: 12
+Slack er: 0
+Earliest start is: 3
+latestStart is: 3
+Tasks which depend on this task: 13 
+
+13 Clean-tunnel
+Time needed to finish task: 18
+Manpower required to complete task: 12
+Slack er: 0
+Earliest start is: 33
+latestStart is: 33
+Tasks which depend on this task: 8 
+
+14 Build-intersection
+Time needed to finish task: 25
+Manpower required to complete task: 12
+Slack er: 0
+Earliest start is: 3
+latestStart is: 3
+Tasks which depend on this task: 15 
+
+15 Clean-intersection
+Time needed to finish task: 20
+Manpower required to complete task: 12
+Slack er: 3
+Earliest start is: 28
+latestStart is: 31
+Tasks which depend on this task: 8 
+
+16 Build-towerfoundation-1
+Time needed to finish task: 35
+Manpower required to complete task: 12
+Slack er: 6
+Earliest start is: 3
+latestStart is: 9
+Tasks which depend on this task: 21 
+
+17 Build-towerfoundation-2
+Time needed to finish task: 45
+Manpower required to complete task: 12
+Slack er: 0
+Earliest start is: 3
+latestStart is: 3
+Tasks which depend on this task: 22 
+
+18 Make-armouring-tower-1
+Time needed to finish task: 40
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 4
+latestStart is: 4
+Tasks which depend on this task: 21 
+
+19 Make-armouring-tower-2
+Time needed to finish task: 25
+Manpower required to complete task: 4
+Slack er: 19
+Earliest start is: 4
+latestStart is: 23
+Tasks which depend on this task: 22 
+
+20 Make-armouring-arch
+Time needed to finish task: 12
+Manpower required to complete task: 4
+Slack er: 0
+Earliest start is: 4
+latestStart is: 4
+Tasks which depend on this task: 23 
+
+21 Encase-and-armour-tower-1
+Time needed to finish task: 15
+Manpower required to complete task: 5
+Slack er: 0
+Earliest start is: 44
+latestStart is: 44
+Tasks which depend on this task: 24 
+
+22 Encase-and-armour-tower-2
+Time needed to finish task: 16
+Manpower required to complete task: 5
+Slack er: 0
+Earliest start is: 48
+latestStart is: 48
+Tasks which depend on this task: 25 
+
+23 Encase-and-armour-arch
+Time needed to finish task: 30
+Manpower required to complete task: 5
+Slack er: 0
+Earliest start is: 16
+latestStart is: 16
+Tasks which depend on this task: 26 
+
+24 Cast-tower-1
+Time needed to finish task: 60
+Manpower required to complete task: 7
+Slack er: 0
+Earliest start is: 59
+latestStart is: 59
+Tasks which depend on this task: 4 27 
+
+25 Cast-tower-2
+Time needed to finish task: 60
+Manpower required to complete task: 7
+Slack er: 0
+Earliest start is: 64
+latestStart is: 64
+Tasks which depend on this task: 5 27 
+
+26 Cast-arch
+Time needed to finish task: 20
+Manpower required to complete task: 7
+Slack er: 140
+Earliest start is: 46
+latestStart is: 186
+Tasks which depend on this task: 31 
+
+27 Stretch-two-maincables
+Time needed to finish task: 25
+Manpower required to complete task: 10
+Slack er: 0
+Earliest start is: 124
+latestStart is: 124
+Tasks which depend on this task: 28 29 
+
+28 Build-truss-1-with-rods
+Time needed to finish task: 30
+Manpower required to complete task: 10
+Slack er: 7
+Earliest start is: 149
+latestStart is: 156
+Tasks which depend on this task: 1 6 7 30 
+
+29 Build-truss-2-with-rods
+Time needed to finish task: 37
+Manpower required to complete task: 10
+Slack er: 0
+Earliest start is: 149
+latestStart is: 149
+Tasks which depend on this task: 1 6 7 30 
+
+30 Cast-lane-on-truss
+Time needed to finish task: 20
+Manpower required to complete task: 7
+Slack er: 0
+Earliest start is: 186
+latestStart is: 186
+Tasks which depend on this task: 31 
+
+31 Polish-lane-on-arch
+Time needed to finish task: 12
+Manpower required to complete task: 7
+Slack er: 0
+Earliest start is: 206
+latestStart is: 206
+Tasks which depend on this task: 

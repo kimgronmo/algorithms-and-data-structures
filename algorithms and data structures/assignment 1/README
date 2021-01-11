@@ -1,0 +1,19 @@
+Alt ser ut til å fungere greit. Noen ganger får jeg en ArrayIndexOutofBounds feil ved å kjøre prefix 
+etter å ha endret etternavn på en person. Jeg kan ikke helt se hvor feilen ligger. 
+
+for å kjøre filen: java Oblig1 contact.txt
+
+Tilgjengelige kommandoer fra Shell:
+listall - lists all persons (Lastname firstname countrycode phonenumber)
+numUniqueLast - lists the number of unique lastnames.
+mostCommonName - lists the most common lastname.
+prefix Claussen - searches for persons with lastname Claussen. Not that lastname must start with a capital
+letter (for the file contact.txt).
+nonUniqueDiffC - lists all persons who have the same name and live in different countries.
+printPhone - prints the country code tree and the phone number tree for each node in the country tree.
+changeName Lastname firstname newlastname - need to give country code and phonenumber of the person who 
+will get namechange (Countrycode phonenumber).
+
+independence - needs to give country code and start digit for the city (ex 47 9)
+help - prints which commands are available.
+exit - quits the program.

@@ -1,0 +1,899 @@
+Uren	freydis	25	99349625
+Jahr	vagn	48	44841556
+Bogh	kol	27	19801081
+Floden	thorbjorg	32	26454078
+Lyng	thorkatla	34	33063155
+Boge	alfdis	28	31292695
+Skogen	halldis	366	20250625
+Westgard	hrefna	23	57654833
+Asplund	bergthora	373	13213819
+Overbey	arnfinn	42	49206826
+Arnesen	botolf	52	82118275
+Floden	eyvind	24	16210704
+Haagensen	gizur	824	13875540
+Laake	halfdan	53	52525475
+Christiansen	hedin	51	18268654
+Ingebretson	thjodhild	50	35312274
+Kristiansen	bergljot	965	57627386
+Clasen	hildigunn	33	93825418
+Dyrdahl	katla	483	98182998
+Arntzen	thordis	49	52222850
+Conradi	bera	47	66406909
+Thon	gudrun	27	40426364
+Dahl	hild	33	97346382
+Isaksen	jorunn	53	45493980
+Ingebretsen	thora	52	94207799
+Christensen	gunnhild	36	50510824
+Dalen	hallgerd	779	82073923
+Distad	yngvar	53	75011893
+Paulsrud	sigtrygg	38	51710886
+Bogh	steinkel	23	26703951
+Egeland	tosti	136	42666144
+Flom	grim	823	34554447
+Overland	hjalti	49	55885531
+Boger	ingolf	20	62441172
+Dybdahl	hallfrid	674	26745302
+Aros	leif	51	77278627
+Skoglund	sigulf	24	12203907
+Lageson	otrygg	38	97356660
+Clausen	thorunn	20	92857635
+Boger	arnora	29	83209295
+Flattum	dotta	760	74835408
+Haagensen	ofeig	27	14473916
+Dullum	lambi	40	83369488
+Eggum	arnor	22	90831693
+Madsen	bui	30	11299008
+Lyng	finnbogi	36	22409894
+Rolstad	grani	165	83202885
+Folden	hlif	51	56805054
+Thorkelson	ragna	540	86908879
+Landa	thorfinna	237	49706332
+Arntzen	halldor	916	63865458
+Gundersen	herjolf	50	58836083
+Huseth	ingjald	51	99903788
+Fjerstad	onund	51	34825225
+Lande	ragnar	237	45290889
+Christensen	ingibjorg	120	69086209
+Ingebretson	thurid	858	80542738
+Drag	asa	378	96041964
+Gundersen	saeunn	42	89077214
+Haagen	skapti	540	29873390
+Folden	styrkar	113	24799714
+Haaland	thord	50	54195537
+Rogstad	thorkel	165	60329797
+Flaten	isleif	35	70443701
+Lystad	ljot	30	66918860
+Lystad	illugi	27	82051957
+Jacobsen	hrodny	25	41293668
+Iversen	rannveig	113	87283269
+Lykken	thorgunna	760	44832386
+Lambertsen	vestein	867	74205424
+Krogstad	bodvar	556	16685353
+Nystuen	alf	40	15062511
+Rogstad	bersi	273	36221607
+Odden	eirik	28	14678204
+Skoglund	gardi	25	17564490
+Land	gunnar	717	27996496
+Flaa	harald	50	49664359
+Overland	hrafn	29	51242944
+Isberg	mord	31	96015190
+Hylen	sighvat	831	65172954
+Dock	starkad	47	64260799
+Landa	thjostolf	45	63005342
+Ask	thorgils	21	59299844
+Askeland	thrain	48	66124164
+Christoffersen	vermund	823	62255112
+Haagen	kolbein	41	34355097
+Vangen	arnlaug	30	99907867
+Madsen	brand	44	55582045
+Nyhus	vigfus	867	38550010
+Clausen	karlsefni	27	69944863
+Valen	amundi	39	42330436
+Thoen	bjorn	32	73983185
+Thomassen	erlend	373	84489408
+Bogen	geirmund	471	17183424
+Krogstad	asgerd	32	93166884
+Westby	gjaflaug	824	58700137
+Rong	gunnlaug	699	78452652
+Lade	hastein	33	64062978
+Istre	hring	45	24076546
+Ihle	odd	40	10768618
+Westby	sigmund	779	27169059
+Ege	stein	166	65497745
+Roisum	thorarin	20	34464236
+Rong	thorgrim	373	19619168
+Ingebritson	thrand	43	20357016
+Arnesen	finn	36	86020394
+Overby	glum	38	94771867
+Bogh	hall	916	69464305
+Oye	helgi	674	36921338
+Thoen	ingi	26	19894676
+Paulsen	olvir	24	68955865
+Skoglund	havard	39	25965076
+Nylund	ari	31	70544560
+Bohle	eyjolf	132	95582805
+Kvale	geirstein	25	96904195
+Gulsvig	hafgrim	824	70057267
+Thoresen	hauk	40	61063729
+Haagen	hroald	929	99084978
+Arntzen	valgard	28	73469554
+Nyland	kari	23	70659788
+Westrum	alfgeir	450	43192347
+Huso	bjarni	31	14254271
+Vangen	eldgrim	45	76470698
+Asplund	aslak	42	23138030
+Bogen	orm	50	43140676
+Egland	egil	28	52269390
+Bohler	geir	32	27147715
+Valla	aki	674	90841867
+Hustad	armod	52	46613184
+Valen	asleif	48	56716327
+Nylund	asta	42	98869574
+Thoen	astrid	46	85557378
+Clemensen	aud	32	25278001
+Christophersen	bardi	43	44628781
+Westgard	bergthor	113	58615510
+Gulseth	bork	42	37891654
+Kvam	einar	971	11958703
+Valle	eindridi	36	24689223
+Roisum	eystein	45	23301408
+Odegaard	fridgeir	47	78646081
+Skogen	gest	24	61228580
+Kvamme	grima	51	50608905
+Westrum	grimhild	33	15977188
+Odegaard	groa	50	95467088
+Thomsen	gudmund	44	14845138
+Hylen	gudrid	24	51344188
+Paulsrud	gunnbjorn	47	98217851
+Aune	gyda	34	43964940
+Conradi	hakon	45	25187509
+Thon	hallfred	472	16603791
+Rongstad	hallveig	38	63065236
+Dahle	harek	53	24289199
+Petersen	helga	674	52942405
+Westrum	herdis	44	41450582
+Christiansen	hogni	21	63192883
+Dahle	hord	965	87006312
+Aros	hrut	44	30204613
+Island	ingigerd	35	64618066
+Skog	ingirid	51	96357454
+Madland	ingunn	293	78017974
+Eggum	ivar	30	49891058
+Urness	kalf	33	54210233
+Isberg	ketil	38	40933821
+Dahlberg	knut	23	95084579
+Flaa	ljotolf	22	91486534
+Dyrdahl	lodin	32	40056161
+Egeberg	ogmund	22	53021224
+Lambertsen	olaf	373	43081276
+Iversen	otkel	824	94646902
+Boge	ottar	50	91874769
+Oyen	ozur	33	20539591
+Dahlby	ragnhild	25	62361152
+Thomassen	rognvald	47	31674739
+Dock	runolf	49	49833145
+Egeberg	sam	542	87565037
+Land	sigrid	44	90304926
+Lade	sigurd	42	16889011
+Ihle	sigwulf	47	55667929
+Landa	snorri	166	88306088
+Pedersen	solmund	26	15933441
+Dokken	solvi	34	72967498
+Nyhus	steinthor	48	13647231
+Distad	sturla	45	50291638
+Haaland	sumarlidi	45	19764452
+Drage	svala	53	64400487
+Fodness	svein	710	51532888
+Claussen	thjodolf	542	91340079
+Christoffersen	thorbjorn	166	48540576
+Ege	thorbrand	112	22399642
+Jacobsen	thorfinn	136	41527817
+Pedersen	thorgeir	46	24470339
+Dokken	thorgerd	916	84619738
+Petersen	thorgest	26	17829034
+Rogness	thorhall	28	56575310
+Jacobsen	thorhalla	23	60203846
+Lysne	thorhild	37	88848842
+Jahr	thorir	483	31439556
+Huso	thormod	31	55380624
+Fodness	thorstein	734	70079924
+Dotseth	thorvald	542	64479032
+Claussen	thyra	481	23864725
+Lykken	ulf	494	85131952
+Rogness	uni	430	40725112
+Lysne	unn	51	87084198
+Uren	valgerd	23	72748057
+Egeland	vandrad	26	99901079
+Dotseth	vigdis	21	56102664
+Dybdahl	thorarin	43	75007708
+Uren	eystein	47	87849855
+Christiansen	thorkel	24	47834851
+Lyng	bersi	30	32658057
+Thoen	uni	23	53556590
+Claussen	thorhall	34	58348607
+Eggum	thorgest	35	46020350
+Westgard	helga	20	96535443
+Hylen	thorgeir	965	35449758
+Rogstad	solmund	34	52459377
+Folden	sigtrygg	471	17028694
+Clemensen	stein	26	82347369
+Folden	thorbrand	36	52385318
+Valen	ogmund	33	27681277
+Arnesen	sam	717	79848529
+Ingebritson	tosti	165	63946609
+Lambertsen	vandrad	677	46035705
+Gulsvig	arnor	784	54273573
+Dahle	ivar	33	11201196
+Clausen	orm	39	67255846
+Jahr	herdis	52	85967234
+Ingebretson	grimhild	22	93075278
+Boge	alfgeir	858	36574181
+Paulsen	hrefna	45	66099752
+Egeland	bergthor	37	60612206
+Aros	sigmund	39	41136587
+Egeland	gjaflaug	41	76520651
+Pedersen	gunnbjorn	27	40716534
+Ihle	olvir	31	90099135
+Arntzen	ozur	958	71469027
+Lade	helgi	25	86397067
+Dotseth	hrafn	27	96065171
+Dahlby	hjalti	32	98894010
+Nystuen	glum	823	84462422
+Haagensen	arnfinn	29	18061096
+Paulsrud	groa	25	20681484
+Oyen	thrain	677	58565770
+Madland	thorgils	542	17739360
+Bogen	leif	273	69159917
+Westby	stein	39	94248999
+Arntzen	hrut	31	62515323
+Thon	valgard	24	92870082
+Thoresen	thordis	31	78084082
+Westby	halldor	23	84432055
+Skogen	finn	779	97538175
+Haagen	botolf	48	19068693
+Jacobsen	thorgest	30	24978797
+Thoen	karlsefni	28	29526914
+Nylund	hallgerd	237	22811416
+Valen	eldgrim	867	12168241
+Hustad	saeunn	674	43554100
+Valla	armod	31	31910548
+Bohler	styrkar	534	13084761
+Egland	snorri	43	86546675
+Bogen	ingjald	273	20537601
+Rogness	hrodny	27	98332732
+Lykken	geir	21	24578142
+Claussen	valgerd	47	11208240
+Dotseth	eyjolf	373	79610876
+Fodness	hlif	34	23013435
+Huso	aud	273	49668519
+Jahr	ozur	41	53499350
+Lysne	thorstein	32	23960853
+Jacobsen	herdis	37	98779426
+Westby	stein	38	30015011
+Ihle	asleif	42	71340027
+Istre	grima	25	71976361
+Lade	thorgest	22	37371610
+Rong	aslak	35	63377242
+Westby	olaf	699	34625623
+Krogstad	ketil	51	14479112
+Bogen	alfdis	23	69019575
+Thomassen	ivar	699	74873056
+Thoen	brand	46	56064526
+Valen	einar	784	84320520
+Overland	eystein	47	89219107
+Flom	ofeig	20	28899574
+Egeland	hrefna	25	27270264
+Bogh	thorbrand	22	72413233
+Paulsrud	ari	734	98778477
+Distad	thorbrand	35	39220791
+Egeland	ari	29	48888268
+Uren	sigurd	50	78958698
+Lysne	odd	22	54236278
+Rogness	arnlaug	525	56629303
+Lykken	helgi	49	99592118
+Claussen	helga	42	18375321
+Dotseth	steinthor	430	87021078
+Fodness	eirik	42	83001394
+Huso	leif	37	49041347
+Jahr	bera	41	32978987
+Lysne	gizur	28	82311438
+Jacobsen	arnora	53	90743003
+Rogness	ingunn	779	86733728
+Petersen	ragna	51	60022780
+Pedersen	Hallfrid	47	26968848
+Lysne	ingibjorg	971	22939718
+Rogness	hroald	823	92117784
+Lykken	hild	30	88773159
+Claussen	mord	29	95862199
+Dotseth	rannveig	831	59145742
+Fodness	olvir	31	70972269
+Huso	orm	481	51788182
+Jahr	hogni	47	65865525
+Lysne	svein	28	17105148
+Jacobsen	vigdis	35	70427216
+Rogness	aki	159	77000862
+Christensen	ingibjorg	40	55932007
+Lande	hroald	49	76179193
+Fjerstad	hild	22	50225601
+Huseth	mord	48	78464839
+Gundersen	rannveig	674	25463169
+Arntzen	olvir	37	76470260
+Landa	orm	34	42112364
+Claussen	mord	29	14322059
+Thorkelson	hogni	50	52455354
+Folden	lambi	48	92244301
+Rolstad	herjolf	867	30366887
+Lyng	gudrid	41	28433377
+Madsen	gudmund	39	53855491
+Eggum	gjaflaug	26	94636001
+Dullum	kol	38	70960808
+Haagensen	ragnar	28	13817060
+Flattum	geirmund	50	18544670
+Boger	gudrun	47	16626905
+Clausen	asta	52	66184606
+Huso	hring	37	85126952
+Vangen	knut	43	85552008
+Asplund	ragnhild	48	30833619
+Bogen	sam	293	29974682
+Egland	aslak	26	34197765
+Gulsvig	hrut	165	28641812
+Thoresen	thorgest	23	27776579
+Haagen	erlend	46	11181004
+Arntzen	hall	25	27454147
+Nyland	thorbjorg	42	38367683
+Westrum	hallveig	494	74421504
+Huso	geirmund	50	95540438
+Vangen	gudrun	472	88090906
+Asplund	onund	24	80935613
+Bogen	hauk	784	30367087
+Egland	sigtrygg	47	27115986
+Dahle	ingi	34	20919710
+Petersen	thorgils	32	23444357
+Westrum	bjarni	39	79581772
+Christiansen	hildigunn	31	61835153
+Dahle	hjalti	49	31496606
+Aros	thorhalla	41	21133034
+Island	ljot	37	22279290
+Skog	katla	450	42296358
+Madland	otkel	483	22582981
+Isberg	amundi	49	75900502
+Hylen	gardi	710	44266794
+Claussen	mord	29	71452158
+Dock	ulf	779	55927913
+Landa	vestein	30	12530202
+Ask	thyra	823	51562504
+Askeland	vermund	35	86679673
+Christoffersen	gunnbjorn	24	72240593
+Haagen	hallfred	28	87368174
+Vangen	ingirid	916	93513342
+Madsen	rognvald	40	65724180
+Valla	geir	36	55706386
+Hustad	hrodny	43	52515710
+Valen	ingjald	113	20031983
+Nylund	harek	52	70075676
+Thoen	jorunn	52	92910426
+Clemensen	thord	37	94900761
+Thon	kari	540	61286458
+Rongstad	botolf	52	43666281
+Claussen	mord	49	75900502
+Dahle	tosti	40	78355712
+Petersen	alf	27	56974107
+Westrum	uni	29	71008370
+Christiansen	astrid	49	45434450
+Dahle	halldis	20	66124326
+Aros	hring	46	79409685
+Island	armod	46	82177771
+Skog	gunnhild	35	17413896
+Madland	eyvind	46	38606252
+Jahr	alfgeir	45	70341595
+Bogh	asa	46	35026786
+Floden	dotta	22	89174438
+Lyng	thorkel	52	27012966
+Boge	vagn	32	38401941
+Skogen	geirmund	25	84556538
+Westgard	gudrun	51	87983410
+Asplund	hafgrim	779	32324637
+Overbey	kalf	37	35619576
+Arnesen	otrygg	45	33004639
+Floden	hrafn	48	82744156
+Haagensen	thrain	27	39564907
+Dotseth	solvi	494	94108752
+Claussen	thurid	42	97943246
+Fodness	thyra	39	47369738
+Claussen	vermund	823	96463811
+Dyrdahl	gunnbjorn	120	85386019
+Egeberg	aki	237	49352205
+Lambertsen	vigdis	378	51047980
+Iversen	svein	26	10976215
+Boge	hogni	36	93856933
+Oyen	orm	120	55241883
+Dahlby	hild	25	69553879
+Thomassen	sigtrygg	760	43043309
+Dock	herjolf	29	11355346
+Egeberg	lambi	37	50756115
+Land	asgerd	50	87156022
+Lade	finn	47	13389687
+Ihle	gunnar	49	98375464
+Landa	thorir	430	97032268
+Uren	glum	25	10577077
+Egeland	starkad	677	32677884
+Paulsrud	botolf	136	19179223
+Haagensen	finn	293	44454903
+Nystuen	halldor	22	67114267
+Dahlby	thordis	41	67254728
+Claussen	mord	31	60412098
+Dotseth	valgard	21	33130634
+Lade	hrut	35	13365103
+Arntzen	leif	36	43114509
+Ihle	thorgils	29	54989028
+Pedersen	thrain	44	11443646
+Laake	aslak	36	33243672
+Dahl	bergthora	50	35328308
+Lystad	gyda	52	62680354
+Bogh	alfdis	33	41022941
+Claussen	mord	31	89974873
+Clemensen	ottar	52	35819212
+Folden	geirmund	24	17677640
+Valen	orm	30	41156530
+Arnesen	arnora	30	73856747
+Ingebritson	ingolf	33	44396991
+Lambertsen	hall	50	80263057
+Gulsvig	kol	37	38796657
+Dahle	steinkel	31	93541878
+Clausen	eyjolf	35	82523975
+Rolstad	geir	37	59933126
+Pedersen	Hallfrid	46	62430467
+Flaten	gunnhild	36	64768306
+Westby	ingibjorg	965	83291917
+Landa	hedin	472	65355822
+Valen	hogni	27	51741318
+Iversen	thorbjorn	823	47714691
+Rogness	vermund	24	55900368
+Dyrdahl	bardi	378	25598358
+Madsen	hildigunn	37	19279050
+Skoglund	karlsefni	120	82824996
+Ege	thorunn	112	11885705
+Dahlberg	thjodolf	42	21233231
+Rogness	thyra	46	16766280
+Clasen	aud	40	48314928
+Arntzen	bera	44	62571242
+Iversen	hakon	556	90325426
+Vangen	hild	33	39899248
+Kvale	knut	37	76748850
+Kvam	ragnhild	42	44271775
+Overland	harek	49	61262494
+Thoen	hord	24	91986103
+Skoglund	hallgerd	31	87302423
+Island	sturla	27	59364169
+Dotseth	yngvar	49	14609821
+Odegaard	runolf	32	14664696
+Westrum	starkad	450	31325583
+Petersen	solvi	48	69694228
+Land	thorgerd	699	69629344
+Jacobsen	thorvald	916	77582617
+Uren	vigdis	28	69798512
+Floden	asa	51	72905547
+Eggum	svala	831	81349411
+Haagen	lambi	30	10971646
+Odden	hallfrid	49	28381858
+Nylund	katla	41	63082466
+Huso	lodin	53	33254799
+Christiansen	stein	53	25978494
+Boge	thorbrand	242	97027561
+Egland	ogmund	29	69094863
+Kvamme	sam	273	12466338
+Jacobsen	tosti	23	93955227
+Lykken	vandrad	48	73273589
+Overbey	arnor	44	33736589
+Bogh	ivar	430	69401398
+Overland	egil	48	23708685
+Hustad	onund	33	30042609
+Flaa	harald	44	50276617
+Westrum	ljotolf	525	25031755
+Overby	isleif	823	31604192
+Flom	dotta	26	73983978
+Flattum	eyvind	29	82232349
+Lambertsen	thorbjorg	46	31627975
+Lande	grim	867	61119030
+Urness	svein	48	25248948
+Christoffersen	thorstein	43	62636121
+Clausen	hlif	44	92862002
+Skog	styrkar	824	10044205
+Distad	bork	47	21252806
+Jacobsen	hafgrim	916	59771447
+Haagen	herjolf	471	90201872
+Skogen	saeunn	450	17607741
+Westby	hroald	481	58577182
+Thoresen	kolbein	176	88145687
+Thon	skapti	24	50920651
+Arntzen	gizur	48	34070762
+Bogen	ofeig	237	54866504
+Madland	sumarlidi	33	23342912
+Oyen	thord	43	89150198
+Rong	ingjald	812	24940490
+Ingebretsen	bjarni	41	34762547
+Claussen	thormod	916	67098481
+Skogen	armod	45	31943832
+Haagen	gudrid	32	96167507
+Westrum	sighvat	47	95984539
+Asplund	odd	53	25988403
+Conradi	sigwulf	26	50053863
+Dyrdahl	thora	28	51136540
+Isberg	thjodhild	34	94133147
+Petersen	thurid	39	59082442
+Dokken	thrand	46	81351463
+Oye	jorunn	710	60154435
+Bohle	ketil	779	53328706
+Vangen	mord	812	68402279
+Ege	ingigerd	27	84441366
+Krogstad	hring	41	54904945
+Nylund	otkel	22	75232128
+Valle	rannveig	35	11491312
+Rong	hrodny	51	81337515
+Thomassen	thorfinn	49	83058952
+Nyhus	thorhalla	46	49763579
+Haaland	thorir	21	71744530
+Fodness	vagn	34	98817865
+Conradi	bergljot	481	45978201
+Haagensen	asgerd	28	26939520
+Dalen	bodvar	44	12537388
+Thorkelson	geirstein	430	75852335
+Boger	einar	494	24005088
+Christensen	grima	45	92431438
+Lykken	halfdan	779	80773836
+Isberg	hastein	40	72675555
+Aune	sigurd	273	77605497
+Thoen	otrygg	47	46798844
+Bohler	olaf	34	55390691
+Lysne	vestein	52	21102553
+Haaland	gunnar	25	23360806
+Thomsen	sigrid	242	68722579
+Rongstad	snorri	176	75772765
+Flaa	thjostolf	965	27661172
+Dock	thorfinna	38	86599648
+Gulseth	ragnar	430	36544551
+Pedersen	thorgunna	39	58463433
+Lysne	ulf	824	17188131
+Dullum	finnbogi	35	42193261
+Drage	thorkatla	32	72568303
+Distad	thorhild	373	45806535
+Huso	unn	43	16778674
+Istre	illugi	36	89869491
+Nyland	ljot	37	51209973
+Arnesen	ingunn	21	82560047
+Bogh	brand	21	92627641
+Egeland	bui	304	30646026
+Aros	steinthor	26	66388370
+Egeland	vigfus	53	74626485
+Paulsen	kari	40	91042882
+Boge	ari	47	38385565
+Ingebretson	asta	50	45653231
+Jahr	alf	450	94427664
+Aros	eirik	779	83833751
+Madsen	fridgeir	542	84189728
+Drag	groa	46	91350824
+Westgard	arnfinn	21	76248980
+Huseth	glum	26	33730802
+Nyhus	hjalti	176	73548379
+Thomassen	hrafn	556	97793894
+Askeland	helgi	273	85315474
+Christophersen	ozur	472	97265858
+Valla	olvir	41	39191315
+Rogstad	gunnbjorn	823	40985721
+Hylen	sigtrygg	47	43237416
+Dahle	solmund	49	25845495
+Egeberg	thorgeir	21	19900902
+Ask	helga	43	27020953
+Lade	thorgest	33	54332220
+Dokken	thorhall	23	41042917
+Jahr	uni	26	94059014
+Isaksen	bersi	717	85620113
+Fodness	thorkel	858	76507180
+Boger	eystein	36	31897169
+Egeberg	thorarin	33	14885756
+Fjerstad	grani	38	32435405
+Lystad	gunnlaug	21	14980810
+Landa	thorgrim	534	51298670
+Land	hallveig	34	12234448
+Roisum	ingirid	40	27793381
+Landa	gest	31	44729523
+Krogstad	halldis	525	48437061
+Lyng	gardi	29	10671438
+Dock	havard	784	86882800
+Paulsrud	sigulf	136	99072952
+Kristiansen	astrid	48	29618282
+Christensen	bjorn	32	41991878
+Ihle	ingi	53	35145435
+Lageson	erlend	242	55261757
+Roisum	rognvald	38	52497355
+Gundersen	gudmund	43	35727986
+Folden	gudrun	165	65905466
+Rogstad	hallfred	27	69569890
+Hylen	hauk	677	10949401
+Westgard	ragna	36	92156753
+Eggum	freydis	45	31087498
+Claussen	valgerd	22	18722475
+Thoen	kalf	28	35979556
+Lyng	amundi	112	81601381
+Christiansen	asleif	29	66913904
+Uren	aki	34	87588471
+Dybdahl	eindridi	273	13505445
+Asplund	arnlaug	858	22970093
+Skoglund	eldgrim	36	61038953
+Gundersen	gjaflaug	30	50147379
+Odegaard	sigmund	46	65744044
+Thon	bergthor	46	43162788
+Bogen	hrefna	44	41078980
+Floden	alfgeir	43	95332666
+Ingebretson	grimhild	31	10081223
+Christoffersen	herdis	542	46614647
+Pedersen	Hallfrid	47	85471234
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
